@@ -17,7 +17,7 @@ AS
 SELECT * 
 FROM `carbide-bongo-413214.mage_demo_dataset.green_taxi_trip`;
 
-6.41 MB
+0 MB
 SELECT COUNT(DISTINCT (PULocationID))
 FROM `carbide-bongo-413214.mage_demo_dataset.green_taxi_trip`;
 
